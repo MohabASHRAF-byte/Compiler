@@ -12,3 +12,4 @@ G:\compiler project\obj\Debug\net8.0-windows\refint\compiler project.dll
 G:\compiler project\obj\Debug\net8.0-windows\compiler project.pdb
 G:\compiler project\obj\Debug\net8.0-windows\compiler project.genruntimeconfig.cache
 G:\compiler project\obj\Debug\net8.0-windows\ref\compiler project.dll
+G:\compiler project\obj\Debug\net8.0-windows\compiler project.sourcelink.json
